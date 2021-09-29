@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**AlphaOmarDiallo/AlphaOmarDiallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bonjour, I am Alpha ✨
+### 📱 I am an aspiring mobile developer currently focusing on learning Android.
 
-Here are some ideas to get you started:
+* 👨‍🎓 I am currently enrolled in a 10 month bootcamp to learn Android development. My path ends in august 2022.
+* 🏨 I used to work in the hospitality industry.
+* ⚽ I am a family man and I love sports. Football and PSG in particular.
+* 🔗 You can connect with me : 
+  * 🐦 On Twitter : https://twitter.com/Alpha08647273 
+  * 🕴️ On Linkedin : https://www.linkedin.com/in/alpha-omar-diallo 
+* 🕸️ And please visit my portfolio website : https://alphaomardiallo.com 
+* 📖 Also, you can visit my blog https://alphaomardiallo.hashnode.dev/ where I share about tech and life. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### The technologies I learnt and use currently
+
+
