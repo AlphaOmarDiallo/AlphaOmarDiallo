@@ -8,9 +8,31 @@
 * 🔗 You can connect with me : 
   * 🐦 On Twitter : https://twitter.com/Alpha08647273 
   * 🕴️ On Linkedin : https://www.linkedin.com/in/alpha-omar-diallo 
-* 🕸️ And please visit my portfolio website : https://alphaomardiallo.com 
-* 📖 Also, you can visit my blog https://alphaomardiallo.hashnode.dev/ where I share about tech and life. 
+* 🕸️ And visit my portfolio website : https://alphaomardiallo.com 
+* 📖 Also, you can visit my blog https://alphaomardiallo.hashnode.dev/ where I share about my Android tech journey.
 
 ### The technologies I learnt and use currently
+### Android
+* RxJava - planned
+* JetPack Compose - planned
+* Coroutines - planned
+* Dagger / Hilt - planned
+* JUNIT 4
+* Espresso
+* Mockito
 
+### Programming language and frameworks
+* Java
+* Kotlin
+* XML
+* HTML
+* CSS
 
+### DataBase
+* SQLite
+* Room - planned
+
+### IDE
+* Android Studio
+* IntelliJ Idea
+* Visual Studio Code
