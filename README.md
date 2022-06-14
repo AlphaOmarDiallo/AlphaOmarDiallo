@@ -1,6 +1,6 @@
 
 ## Bonjour, I am Alpha ✨
-### 📱 I am an aspiring mobile developer currently focusing on learning Android.
+### 📱 I am an Android developer currently focusing on learning Android.
 
 * 👨‍🎓 I am currently enrolled in a 10 month bootcamp to learn Android development. My path ends in august 2022.
 * 🏨 I used to work in the hospitality industry.
