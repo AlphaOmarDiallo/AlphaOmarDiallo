@@ -12,28 +12,20 @@
 
 ### My tech stack
 #### Programming languages
-* Kotlin
-* Java
+Kotlin | Java
 #### Architecture
-* MVVM
-* MVC
+MVVM | MVC
 #### Lifecycle avware components
-* Livedata
-* Coroutines
+Livedata | Coroutines
 #### UI
-* JetPack Compose
-* XML
+JetPack | ComposeXML
 #### Dependency injection
-* Dagger2 / Hilt
+Dagger2 / Hilt
 #### Testing
-* JUNIT 4
-* Espresso
-* Mockito
-* Truth
+JUNIT 4 | Espresso | Mockito | Truth
 #### DataBase
-* Room persistence library
+Room persistence library
 #### Backend
-* Firebase
+Firebase
 #### REST API
-* Retrofit2
-
+Retrofit2
