@@ -2,7 +2,7 @@
 ## Bonjour, I am Alpha ✨
 ### 📱 I am an Android developer
 
-* 👨‍🎓 I will gradutate in august 2022.
+* 👨‍🎓 I gradutated in august 2022.
 * 🏨 I used to work in the hospitality industry.
 * ⚽ I am a family man and I love sports. Football and PSG in particular.
 * 🔗 You can connect with me : 
