@@ -7,23 +7,3 @@
 * 🔗 You can connect with me : 
   * 🐦 On Twitter : https://twitter.com/Alpha08647273 
   * 🕴️ On Linkedin : https://www.linkedin.com/in/alpha-omar-diallo 
-
-### My tech stack
-#### Programming languages
-Kotlin | Java
-#### Architecture
-MVVM | MVC
-#### Lifecycle avware components
-Livedata | Coroutines
-#### UI
-JetPack | ComposeXML
-#### Dependency injection
-Dagger2 / Hilt
-#### Testing
-JUNIT 4 | Espresso | Mockito | Truth | Robolectric
-#### DataBase
-Room | SQL
-#### Backend
-Firebase
-#### REST API
-Retrofit2
