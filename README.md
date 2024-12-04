@@ -6,6 +6,6 @@
 
 🚀 I’ve contributed to high-profile apps like Dakar 2023, Tour de France, and Total, reaching a large user base, and developed B2B solutions. I’m skilled in building and maintaining apps from scratch and enjoy creating projects for learning, with two apps on the Play Store.
 
-If you want to get in touch, here is my [website](www.alphaomardiallo.com).
+If you want to get in touch, here is my [website](https://alphaomardiallo.com).
 
 Welcome to my Github!
